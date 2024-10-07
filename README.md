@@ -7,3 +7,9 @@
   <h2>Fotos do projeto:</h2>
   <br>
  <img src="https://raw.githubusercontent.com/OtavioAugusto06/Projeto-We-Care/c82d7f8a31bdbea1631bb2b22066bdd4bb02d58d/IMG/Captura%20de%20tela%202024-10-07%20194521.png" alt="imagen desktop">
+ <p><i>Demonstração do site no Desktop</i></p>
+ <br>
+ <br>
+ <img src="https://github.com/OtavioAugusto06/Projeto-We-Care/blob/master/IMG/Captura%20de%20tela%202024-10-07%20194458.png?raw=true" alt="imagen mobile">
+ <p><i>Demonstração do site no Mobile</i></p>
+ 
