@@ -6,4 +6,4 @@
   <br>
   <h2>Fotos do projeto:</h2>
   <br>
- 
+ <img src="https://raw.githubusercontent.com/OtavioAugusto06/Projeto-We-Care/c82d7f8a31bdbea1631bb2b22066bdd4bb02d58d/IMG/Captura%20de%20tela%202024-10-07%20194521.pnghttps://raw.githubusercontent.com/OtavioAugusto06/Projeto-We-Care/c82d7f8a31bdbea1631bb2b22066bdd4bb02d58d/IMG/Captura%20de%20tela%202024-10-07%20194521.png" alt="imagen desktop">
